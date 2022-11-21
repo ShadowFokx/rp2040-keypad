@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "random-key")(type "KiCad")(uri "D:/Documenten/GitHub/rp2040-keypad/random-keyboard-parts.pretty/Schematic Library")(options "")(descr ""))
+  (lib (name "mx")(type "KiCad")(uri "D:/Documenten/GitHub/rp2040-keypad/MX_Alps_Hybrid.pretty/Schematic Library")(options "")(descr ""))
+)
